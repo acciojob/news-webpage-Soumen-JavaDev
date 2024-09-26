@@ -30,6 +30,7 @@
 	background-color:white;
 	flex-direction:column;
 	text-align:center;
+	padding:20px;
 }
 img{
 	width:200px;
